@@ -1,1 +1,2 @@
-# Clase-32
+# InvasiónPirataEtapa-5
+animación de sprite agregada
